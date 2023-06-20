@@ -1,0 +1,4 @@
+'make_even-correct', (0, 66)
+'cumulative_mul-correct', (512, 66)
+'is_bst-correct', (1024, 66)
+'add_trees-correct', (1536, 66)
